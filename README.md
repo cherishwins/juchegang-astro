@@ -1,5 +1,7 @@
-> ## Legacy repository
-> **Status (14 October 2026): not maintained, marked for deletion.** A two-commit experiment (May 2026) porting the 48 Laws page from Next.js to Astro. It was never the canonical home of that content, which remains in `jdevop33/juchegang` pending its move to [juchegang.ca](https://juchegang.ca). `API_INTEGRATIONS.md` (a Senior Living Trust Score API guide) is unrelated to this site and belongs with the Cherish properties. Nothing here should be built on.
+> ## Stale fork. Nothing deploys from here.
+> **Status (28 October 2026): not maintained, safe to archive.** This is a fork of [jessejamesvictoria/juchegang-astro](https://github.com/jessejamesvictoria/juchegang-astro), which is the live source of [kim.juche.org](https://kim.juche.org). The fork stopped after its first commits (December 2025 and May 2026) and is far behind it. Make changes in the jessejamesvictoria repository, not here.
+>
+> The 48 Laws content lives on [juche.org](https://juche.org), built from [jdevop33/juchegang](https://github.com/jdevop33/juchegang). See [SITES.md](https://github.com/jdevop33/juchegang/blob/main/SITES.md) for the full map.
 
 # Astro Starter Kit: Minimal
 
